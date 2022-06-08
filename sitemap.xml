@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://kyls2005.github.io/mon_premier_site/</loc>
+         <lastmod>2022-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kyls2005.github.io/mon_premier_site/IHM_Web_Dynamique/</loc>
+         <lastmod>2022-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kyls2005.github.io/mon_premier_site/IHM_Web_Statique/</loc>
+         <lastmod>2022-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kyls2005.github.io/mon_premier_site/Notebook/</loc>
+         <lastmod>2022-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
